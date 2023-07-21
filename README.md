@@ -1,2 +1,2 @@
 # Proyecto1
-Proyecto integrador - Lautaro Miño
+Es una plantilla de una pagina web para un gimnasio
